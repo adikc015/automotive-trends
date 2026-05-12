@@ -2,6 +2,11 @@
 
 This project contains a Tableau workbook and its source dataset for analyzing trends in the automotive industry.
 
+## Preview
+
+![Dashboard preview](<Tableau Dashboard.png>)
+
+
 ## Project Files
 
 - Exploring Trends in the Automotive Industry.csv
